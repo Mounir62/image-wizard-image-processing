@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-orange?logo=python)
 
-ImageWizard is a full-featured desktop application for image processing, built with Python and Tkinter. It offers a clean GUI and powerful features such as blurring, noise addition, histogram operations, edge detection, enhancement filters, and even lossless image coding using Huffman and Golomb algorithms.
+ImageWizard is a full-featured desktop application for image processing, built with Python and Tkinter. It offers a clean GUI and multiple features such as blurring, noise addition, histogram operations, edge detection, enhancement filters, and even lossless image coding using Huffman and Golomb algorithms.
 
 ---
 
