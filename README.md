@@ -69,7 +69,7 @@ ImageWizard is a full-featured desktop application for image processing, built w
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/imagewizard.git
+git clone https://github.com/Mounir62/image-wizard-image-processing.git
 cd imagewizard
 pip install -r requirements.txt
 python main.py
